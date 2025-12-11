@@ -7,7 +7,7 @@ import sqlite3
 # ===== إعدادات البوت =====
 BOT_TOKEN = "8585096387:AAHNrx3_2Lb8hz-gTjjKcfrcUvWq41OFD_Y"
 ADMIN_ID = 8100614908  # ضع رقم الايدي الخاص بك هنا
-WEBHOOK_URL = "https://YOUR_RENDER_URL.onrender.com"  # ضع رابط render هنا
+WEBHOOK_URL = "https://ghos-3.onrender.com"  # ضع رابط render هنا
 
 bot = telebot.TeleBot(BOT_TOKEN)
 app = Flask(__name__)
