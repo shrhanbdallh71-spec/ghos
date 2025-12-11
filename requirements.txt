@@ -1,0 +1,2 @@
+pyTelegramBotAPI==4.24.0
+sqlite3-binary==0.0.1
